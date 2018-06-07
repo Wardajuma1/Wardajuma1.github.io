@@ -57,7 +57,7 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">I'm Saumu Ali.</h1>
-            <h3>I'm based at Tunapanda Institue <span>Photographer</span>, <span></span> and <span>web designer</span> 
+            <h3>I'm based at Tunapanda Institue <span>A Photographer</span>, <span></span> and <span>web designer</span> 
           <a class="smoothscroll" href="#about">start scrolling</a>
             and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
             <hr />
@@ -96,8 +96,8 @@
 
             <h2>About Me</h2>
 
-            <p>Am Saumu Ali i was born in Uganda and came to kenya last year november. I stay with my mum and siblings 
-            </p>in Nairobi,kenya. I am 19 years old currently at Tunapanda Institue where i studie 3 months course which are Tech, Web design and Business. i am thankful for the knowledge i have gained here in Tunapanda Institue.
+            <p>Am Saumu Ali i was born in Uganda and came to kenya last year november. I stay with my mum and siblings in nairobi,kenya. I am currently at Tunapanda Institue where i studied a 3month course, This include Tech, Web design and Business.I am into Web design and photography, which i have already learned in Tunapanda.
+            </p>.
 
             <div class="row">
 
@@ -105,11 +105,11 @@
 
                   <h2>Contact Details</h2>
                   <p class="address">
-						   <span>Jonathan Doe</span><br>
-						   <span>1600 Amphitheatre Parkway<br>
-						         Mountain View, CA 94043 US
+						   <span>Saumu Ali</span><br>
+						   <span>Nairobi,Kenya<br>
+						         Olympic,kibera
                      </span><br>
-						   <span>(123)456-7890</span><br>
+						   <span>+(254)-790270904</span><br>
                      <span>anyone@website.com</span>
 					   </p>
 
@@ -148,14 +148,10 @@
 
                <div class="twelve columns">
 
-                  <h3>University of Life</h3>
-                  <p class="info">Master in Graphic Design <span>&bull;</span> <em class="date">April 2007</em></p>
+                  <h3>Tunapanda Institue </h3>
+                  <p class="info"> <span>&bull;</span> <em class="date">February 14th</em></p>
 
-                  <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+                  <p>I came at 14th of february 2018 at Tunapanda where i got to learn different skills and met different people.
                   </p>
 
                </div>
@@ -166,14 +162,11 @@
 
                <div class="twelve columns">
 
-                  <h3>School of Cool Designers</h3>
-                  <p class="info">B.A. Degree in Graphic Design <span>&bull;</span> <em class="date">March 2003</em></p>
+                  <h3>Islamic Education</h3>
+                  <p class="info"><span>&bull;</span> <em class="date">November 2014</em></p>
 
                   <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+                 I studies islamic studies at Uganda for 6 years and graduate.I went to primary upto to class 5 and then continued with islamic studies.
                   </p>
 
                </div>
@@ -199,14 +192,10 @@
 
                <div class="twelve columns">
 
-                  <h3>Awesome Design Studio</h3>
-                  <p class="info">Senior UX Designer <span>&bull;</span> <em class="date">March 2010 - Present</em></p>
+                  <h3>A volunteer</h3>
+                  <p class="info"> <span>&bull;</span> <em class="date">March 2018</em></p>
 
-                  <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+                  <p>I did a volunteer work which conducted a camp for girls from different parts of kenya, Where we gather girls from different parts and we share different story about them and challenges they faced in their homes.
                   </p>
 
                </div>
@@ -217,14 +206,10 @@
 
                <div class="twelve columns">
 
-                  <h3>Super Cool Studio</h3>
-                  <p class="info">UX Designer <span>&bull;</span> <em class="date">March 2007 - February 2010</em></p>
-
+                  <h3>Worked in a boutique</h3>
+                  <p class="info"> <span>&bull;</span> <em class="date">April 2017 - February 2018</em></p>
+I worked in boutique for quite long before i enjoyed Tunapanda that was february 14th.It was good work for me.
                   <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
                   </p>
 
                </div>
@@ -246,10 +231,7 @@
 
          <div class="nine columns main-col">
 
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-            voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-            voluptatem sequi nesciunt.
+            <p>This are skills i have acquired in Tunapanda Institue.
             </p>
 
 				<div class="bars">
