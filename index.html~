@@ -615,11 +615,9 @@ I worked in boutique for quite long before i enjoyed Tunapanda that was february
 
                      <li>
                         <blockquote>
-                           <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                           Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                           nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+                           <p>
                            </p>
-                           <cite>Mr. Adobe</cite>
+                           <cite></cite>
                         </blockquote>
                      </li> <!-- slide ends -->
 
@@ -728,19 +726,16 @@ I worked in boutique for quite long before i enjoyed Tunapanda that was february
                   <ul id="twitter">
                      <li>
                         <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        <a href="#"></a>
                         </span>
-                        <b><a href="#">2 Days Ago</a></b>
+                        <b><a href="#"></a></b>
                      </li>
                      <li>
                         <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        
+                        <a href="#"></a>
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                        <b><a href="#"></a></b>
                      </li>
                   </ul>
 
